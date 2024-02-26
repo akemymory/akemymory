@@ -1,15 +1,44 @@
-<h1 align="center">Hi 👋, I'm Akemy Mory</h1>
-<h3 align="center">Passionate learner and developer: Mastering HTML, CSS, JavaScript, React, Angular and diving into Object-Oriented Programming with Java</h3>
+# Hi there, I'm Akemy Mory! 👋
 
-- 🌱 I’m currently learning **Java**
+I'm a Full Stack Junior Developer with a diverse background in technology, design, and programming. I have a passion for creating innovative solutions and bringing ideas to life through code and design.
 
-- 📫 How to reach me **akemymory@gmail.com**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akemymory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akemymory" height="30" width="40" /></a>
-<a href="https://instagram.com/akemymory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akemymory" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently enhancing my skills in both front-end and back-end development.
+- 🌱 I’m actively learning about databases and expanding my knowledge in back-end technologies, particularly Java and Object-Oriented Programming (OOP).
+- 💼 I'm eager to apply my skills and contribute to exciting projects in a professional environment.
+- 🎨 In addition to coding, I have experience using design software such as Figma, Photoshop, and Adobe Creative Cloud programs.
+- 📫 Feel free to reach out to me via [email](mailto:akemymory@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akemymory/).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Skills
+
+### Front-end
+- HTML5
+- CSS3 / SASS / LESS
+- JavaScript
+- React.js
+- Angular
+
+### Back-end
+- Java
+- Object-Oriented Programming (OOP)
+- Node.js
+- Express.js
+
+### Databases
+- MongoDB
+- SQL / MySQL
+
+### Design
+- Figma
+- Adobe Photoshop
+- Adobe Creative Cloud
+
+## Let's Connect
+
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out if you'd like to work together on a project, have any questions, or just want to chat!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akemymory/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:akemymory@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/akemymory)
+
